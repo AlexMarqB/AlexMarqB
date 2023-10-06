@@ -7,7 +7,7 @@ I'm Alex Marques Beraldo, Frontend developer studying to become a fullstack from
 ## 🔍 Where to find me:
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9347FF?style=for-the-badge&logoColor=white)](alexmarquesberaldo.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-vasconcelos-melo-costa-725726231/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-marques-87050726a/)
 
 ## 🎯 Expertise
 Welcome to my GitHub profile! I'm Alex, a passionate Frontend Developer with a deep love for building web responsive aplications, and studying APIs in Node.js. Next.js, and React are my go-to tools for exceptional app development with responsiveness and accessibility to all devices with all shapes and sizes while always thinking about the UI and UX.
