@@ -10,7 +10,7 @@ I'm Alex Marques Beraldo, Frontend developer studying to become a fullstack from
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-marques-87050726a/)
 
 ## 🎯 Expertise
-Welcome to my GitHub profile! I'm Alex, a passionate Frontend Developer with a deep love for building web responsive aplications, and studying APIs in Node.js. Next.js, and React are my go-to tools for exceptional app development with responsiveness and accessibility to all devices with all shapes and sizes while always thinking about the UI and UX.
+Welcome to my GitHub profile! I'm Alex, a passionate developer with a deep love for building web aplications.Next.js, React and NodeJS with typescript are my go-to tools for exceptional app development with responsiveness, accessibility, safety and fast connections to do anything you need to have a good web service in your hands.
 
 ## 💻 Tech Stacks:
 
