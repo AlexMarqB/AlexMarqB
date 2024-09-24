@@ -4,24 +4,24 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hi, my name is Alex Marques
+        👋 Hi, my name is Alex Marques and I am a
       </h1>
     </summary>
   </ul>
 </div>
 
+**<h3 align="left">🚀 Passionate developer dedicated to crafting exceptional web experiences, specializing in robust and scalable applications with Node.js. My journey in development is driven by a deep love for modern technologies like Next.js and React, always leveraging TypeScript to ensure the highest quality and security in the code. With an unwavering focus on responsiveness, accessibility, and performance, I strive to build web services that not only meet but exceed user expectations. I am constantly seeking innovations that elevate user experience, ensuring that each application is an effective and efficient solution.</h3>**
+
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-9347FF?style=for-the-badge&logoColor=white)](http://www.alexmarquesberaldo.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-marques-87050726a/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:beraldoalex07@gmail.com)
 
-**<h3 align="left">🚀 Passionate developer dedicated to crafting exceptional web experiences, specializing in robust and scalable applications with Node.js. My journey in development is driven by a deep love for modern technologies like Next.js and React, always leveraging TypeScript to ensure the highest quality and security in the code. With an unwavering focus on responsiveness, accessibility, and performance, I strive to build web services that not only meet but exceed user expectations. I am constantly seeking innovations that elevate user experience, ensuring that each application is an effective and efficient solution.</h3>**
+**<h3 align="left">What am I doing now</h3>**
 
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻Improving my backend web development skills. **
+- 💼 I'm currently working on: **💻Improving my backend web development skills.**
 - 🌱 I'm currently learning: **📚 About SOLID and TDD usages**
 - 💬 Ask me about: **💡 TypeScript, React, Node.js, and RESTful APIs**
-- 📂 Portfolio: **<a href="https://www.alexmarquesberaldo.com/en-US" target="_blank">https://www.alexmarquesberaldo.com/en-US</a>**
+  
 
 ## 💻 Tech Stacks:
 
