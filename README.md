@@ -61,4 +61,3 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexMarqB&theme=react)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMarqB&layout=compact&theme=react)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexMarqB&show_icons=true&theme=react)
