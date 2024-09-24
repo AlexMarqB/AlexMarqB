@@ -48,6 +48,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 ![Oracle](https://img.shields.io/badge/Oracle-000?style=for-the-badge&logo=oracle)
+![SQLite](https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ⚙️ Extra Techs
 
