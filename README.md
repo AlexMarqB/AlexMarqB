@@ -1,8 +1,4 @@
-# Hi, nice to meet you! 😎
-
-Welcome to my page!
-
-I'm Alex Marques Beraldo, Frontend developer studying to become a fullstack from Brazil. 
+![👋 Hi, my name is Alex Marques](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 ## 🔍 Where to find me:
 
@@ -10,8 +6,14 @@ I'm Alex Marques Beraldo, Frontend developer studying to become a fullstack from
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-marques-87050726a/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:beraldoalex07@gmail.com)
 
-## 🎯 Expertise
-Welcome to my GitHub profile! I'm Alex, a passionate developer with a deep love for building web aplications.Next.js, React and NodeJS with typescript are my go-to tools for exceptional app development with responsiveness, accessibility, safety and fast connections to do anything you need to have a good web service in your hands.
+**<h3 align="left">🚀 Passionate developer dedicated to crafting exceptional web experiences, specializing in robust and scalable applications with Node.js. My journey in development is driven by a deep love for modern technologies like Next.js and React, always leveraging TypeScript to ensure the highest quality and security in the code. With an unwavering focus on responsiveness, accessibility, and performance, I strive to build web services that not only meet but exceed user expectations. I am constantly seeking innovations that elevate user experience, ensuring that each application is an effective and efficient solution.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻Improving my backend web development skills. **
+- 🌱 I'm currently learning: **📚 About SOLID and TDD usages**
+- 💬 Ask me about: **💡 TypeScript, React, Node.js, and RESTful APIs**
+- 📂 Portfolio: **<a href="https://www.alexmarquesberaldo.com/en-US" target="_blank">https://www.alexmarquesberaldo.com/en-US</a>**
 
 ## 💻 Tech Stacks:
 
